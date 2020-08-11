@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### I'm currently learning web development with react. This is my personal Github profile for keeping track of my work. 
+
+- How to reach me:
+        -> Email: sultangabriel75@icloud.com
+        
+        
+
 <!--
 **SultanGabriel/sultangabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
