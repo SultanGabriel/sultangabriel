@@ -34,7 +34,7 @@
 <br />
 <br />
 
-[![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=sultangabriel&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=sultangabriel&count_private=true&show_icons=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://sultangabriel.github.io
