@@ -8,7 +8,6 @@
 - 📒 2020 Goals: Get better at front-end Web Development
 - 👽 Fun fact: Sub 2 Pewdiepie      
 - 😷 Stay healthy!
-<br />
 
 #### Programming languages I know: 
 
@@ -25,7 +24,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal Icon" width="32" height="32"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C sharp Icon" width="32" height="32"/>
 
-<br/>
 
 ### Connect with me:
 
