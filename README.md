@@ -14,8 +14,11 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+---
+[![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=sultangabriel&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://sultangabriel.gitpod.io
+
+[website]: https://sultangabriel.github.io
 [instagram]: https://instagram.com/sultangabriel
 
 <!--
