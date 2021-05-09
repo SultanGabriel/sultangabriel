@@ -3,8 +3,7 @@
 ## I'm a Student 🤞
 #### Learing Development
 
-- ⚡️ I’m currently working on my [website]! 
-- 💻 I’m currently learning React 
+- 💻 I’m currently learning React and Electron
 - 📒 2020 Goals: Get better at front-end Web Development
 - 👽 Fun fact: Sub 2 Pewdiepie      
 - 😷 Stay healthy!
