@@ -8,7 +8,7 @@
 - 👽 Fun fact: Sub 2 Pewdiepie      
 - 😷 Stay healthy!
 
-#### Programming languages I know: 
+#### Things I am comfortable with: 
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML Icon" width="32" height="32"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS Icon" width="32" height="32"/>
