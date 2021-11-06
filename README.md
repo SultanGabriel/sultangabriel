@@ -4,8 +4,6 @@
 #### Learing Development
 
 - 💻 I’m currently learning React and Electron
-- 📒 2020 Goals: Get better at front-end Web Development
-- 👽 Fun fact: Sub 2 Pewdiepie      
 - 😷 Stay healthy!
 
 #### Things I am comfortable with: 
