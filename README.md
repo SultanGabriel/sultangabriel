@@ -1,10 +1,6 @@
 ### Hi there, I am Gabriel 👋
 ---
 ## I'm a Student 🤞
-#### Learing Development
-
-- 💻 I’m currently learning React and Electron
-- 😷 Stay healthy!
 
 #### Things I am comfortable with: 
 
