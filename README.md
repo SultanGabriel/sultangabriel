@@ -19,16 +19,8 @@
 <br />  
 <br />
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 <br />
 
 [![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=sultangabriel&count_private=true&show_icons=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[website]: https://sultangabriel.github.io
 [instagram]: https://instagram.com/sultangabriel
