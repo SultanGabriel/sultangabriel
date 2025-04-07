@@ -1,4 +1,7 @@
-### Hi there, my name isGabriel 👋
+## Hi there, my name is Gabriel Sultan 👋
+
+##### I like to tell myself that I am a self-thought Software Developer.
+###### But my leraning journey is a while (True) loop, it won't end, so am I then a `while(True) Developer?`
 ---
 
 
